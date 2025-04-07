@@ -1,5 +1,5 @@
 
-# Mynah UI
+# Mynah UI - for me
 > *A Data & Event Driven Chat Interface Library for Browsers and Webviews*
 
 [![PR](https://github.com/aws/mynah-ui/actions/workflows/new_pr.yml/badge.svg?branch=main)](https://github.com/aws/mynah-ui/actions/workflows/new_pr.yml)
